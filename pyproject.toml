@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "app"
+name = "training-engineering"
 version = "0.1.0"
-description = "Training and portfolio showcase repostiory for my data engineering skills using python."
-authors = ["L. GUSTAVO <luizgcmiranda@gmail.com>"]
+description = "Training and portfolio showcase repository for my data engineering skills using Python."
+authors = ["luizgcmiranda"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.12"
 
 
 [build-system]
